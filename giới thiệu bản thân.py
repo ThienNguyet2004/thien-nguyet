@@ -1,0 +1,5 @@
+print('xin chao')
+print('toi ten la TRAN NGOC THIEN ')
+print('nam nay toi 19 tuoi')
+print('toi sinh ra va lon len tai HA NAM')
+print('hien tai toi dang la sinh vien Truong DHSP HA NOI')
